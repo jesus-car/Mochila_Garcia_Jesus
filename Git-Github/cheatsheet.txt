@@ -1,0 +1,27 @@
+Glosario de los comandos GIT aprendidos hasta el momento 
+
+mkdir = Crear un nuevo directorio
+ls = Ver una lista de archivos que contiene el directorio donde estoy
+pwd= Me indica la ubicación donde me encuentro en la pc
+cd = Para movilizarse por las carpetas
+mv = Mover carpetas o cambiarles de nombre
+cp = Copiar las carpetas seleccionadas o cambiarles de nombre
+touch = Crear un archivo con la extensión que se le indique
+start = Abre el archivo seleccionado
+
+
+
+
+Git init = Crea un repositorio en la carpeta donde me encuentro
+Git add = Agrega los archivos seleccionados a la zona de stage del repositorio
+Git commit = Agrega los archivos de la zona de stage a la zona commit
+
+Git remote add origin "Link.com" = Vincula nuestro repositoria local con un repositerio
+en la nube
+Git push origin main = Sube los archivos de nuestro repositorio local al repositorio en la nube
+git pull origin main = Descarga el repositorio actualizado de la nube a nuestro repositorio local
+
+git log = Nos muestra un historial de todos los commits existentes en nuestro repositorio local
+git clone= Clona un repositorio en la nube seleccionado a nuestro directorio donde nos ubicamos
+git branch = Nos muestra una lista de todas las ramas de nuestro repositorio
+git branch nombre_branch= Crea un nuevo branch con el nombre de nombre_branch
