@@ -1,0 +1,12 @@
+IP PRIVADA VM
+10.0.2.15
+
+IP PUBLICA VM
+201.218.159.187
+
+DIRECCION MAC
+08:00:27:a6:ff:c6
+
+Es diferente a la IP publica y privada de nuestra maquina HOST?
+La IP privada es diferente, es una ip generada por la VM pero la IP publica sigue sienda la misma, ya que esta es unica e irrepetible.
+
